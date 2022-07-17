@@ -1,9 +1,9 @@
 # leetcode solutions
 Solutions of the LeetCode tasks
 
-|                             :---:                             |
-|                     Current list of tasks                     |
-| ------------------------------------------------------------- |  
+Current list of tasks:
+
+
 | Number        | Name          | Difficulty    | Status        |
 | ------------- | ------------- | ------------- | ------------- |
 | 35            | Search Insert Position | ```diff + Easy``` |[Solved](solutions/Task_35.ipynb)|
