@@ -6,7 +6,7 @@ Current list of tasks:
 
 | Number        | Name          | Difficulty    | Status        |
 | ------------- | ------------- | ------------- | ------------- |
-| 35            | Search Insert Position | ```diff + Easy``` |[Solved](solutions/Task_35.ipynb)|
+| 35            | Search Insert Position | <h2>```diff + Easy```</h2> |[Solved](solutions/Task_35.ipynb)|
 | 41            | First Missing Positive | ```diff - Hard``` |[Solved, but need to train cyclic sort](solutions/Task_41.ipynb)|
 | 53            | Maximum Subarray | ```diff + Easy``` |[Solved, but need to train Kadane's algorithm](solutions/Task_53.ipynb)|
 | 849           | Maximize Distance to Closest Person | ```diff ! Medium``` |[Solved](solutions/Task_849.ipynb)|
