@@ -47,4 +47,12 @@ Current list of tasks:
 
 For me: there is need to add a column of used technic/idea to solve the task
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 
