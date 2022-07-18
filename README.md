@@ -4,7 +4,7 @@ Solutions of the LeetCode tasks
 ## Current list of tasks:
 
 
-| Number        | Name          | Difficulty    | Status        |
+| Number        | Name          | Task difficulty    | Status        |
 | ------------- | ------------- | ------------- | ------------- |
 | 35            | Search Insert Position | ```Easy 🟢``` |[Solved](solutions/Task_35.ipynb)|
 | 41            | First Missing Positive | ```Hard 🔴``` |[Solved, but need to train cyclic sort](solutions/Task_41.ipynb)|
