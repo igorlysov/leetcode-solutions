@@ -44,6 +44,7 @@ Solutions of the LeetCode tasks
 | 11            | Container With Most Water | ```Medium 🟡``` |[Solved](solutions/Task_11.ipynb)|
 | 17            | Letter Combinations of a Phone Number | ```Medium 🟡``` |[Solved, but need to repeat](solutions/Task_17.ipynb)|
 | 217           | Contains Duplicate | ```Easy 🟢``` |[Solved](solutions/Task_217.ipynb)|
+| 242           | Valid Anagrams | ```Easy 🟢``` |[Solved](solutions/Task_242.ipynb)|
 
 For me: there is need to add a column of used technic/idea to solve the task
 
